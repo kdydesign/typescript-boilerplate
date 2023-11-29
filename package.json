@@ -3,7 +3,7 @@
     "start": "tsc -w"
   }
   "devDependencies": {
-    "@typescript-eslint/eslit-plugin": "latest",
+    "@typescript-eslint/eslnit-plugin": "latest",
     "@typescript-eslint/parse": "latest",
     "eslint": "latest",
     "eslint-config-prettier": "latest",
